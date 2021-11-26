@@ -1,0 +1,53 @@
+h2{
+    color:red;
+    font-family:robotor;
+    text-align:center;
+}
+
+p{
+    border:2px solid black;
+    color:black;
+}
+
+ul{
+    margin-top:5px;
+    margin-bottom:5px;
+    margin-left:6px;
+    margin-right:6px;
+    color:rgb(109, 10, 27);
+}
+name,age,password{  
+    font-family:robotor;
+    text-align:center;
+}
+
+table{
+    padding-left:500px;
+    padding-right:50px;
+    padding-bottom:50px;
+    padding-top:50px;
+
+}
+
+    a:visited{
+        color:steelblue;
+    }
+
+    a:hover{
+        color: seagreen;
+    }
+    .test{
+        margin-left:27px;
+    }
+    .test2{
+        margin-left:38px;
+    }
+    .test3{
+        margin-left: 500px;
+        width:60px;
+        height:20px;
+    }
+    .img{
+        width: 100px;
+        height: 100px;
+    }
